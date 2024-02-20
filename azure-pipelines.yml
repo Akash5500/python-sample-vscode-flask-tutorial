@@ -6,8 +6,7 @@
 trigger:
 - main
 
-pool:
-  vmImage: AKASH
+pool: AKASH
 strategy:
   matrix:
     Python27:
