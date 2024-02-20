@@ -6,7 +6,7 @@
 trigger:
 - main
 
-pool: AKASH
+pool: Default
 strategy:
   matrix:
     Python27:
